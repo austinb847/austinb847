@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Austin Butler! (not the famous actor unfortunatley 😢)
 
-I'm a passionate Full Stack Engineer based in Chicago, IL, with a speciality in Frontend Development and a knack for creating seamless and intuitive user experiences. Over the past three years, I've honed my skills in diverse settings, contributing to the success of e-commerce and SaaS startups, thriving in dynamic agency environments, and making a mark through independent contracting.
+I'm a passionate Full Stack Engineer based in Chicago, IL, with a specialty in Frontend Development and a knack for creating seamless and intuitive user experiences. Over the past four years, I've honed my skills in diverse settings, contributing to the success of e-commerce and SaaS startups, thriving in dynamic agency environments, and making a mark through independent contracting.
 
 When I'm not coding or staying updated on the latest tech trends, you'll find me immersed in my other love – music. I enjoy spending my time playing guitar and collaborating with others in my band. 
 
