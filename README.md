@@ -7,7 +7,7 @@ When I'm not coding or staying updated on the latest tech trends, you'll find me
 The creative process, whether in coding or music, fuels my passion.
 
 ## 🚀 Tech Stack
-- **Frontend Frameworks:** React, Next.js, Vue.js
+- **Frontend Frameworks/Libraries:** React, Next.js, Vue.js, JQuery
 - **Languages:** TypeScript, JavaScript, PHP, Ruby, Python
 - **Styling:** CSS, Sass, Material UI, Styled Components, Tailwind, Bootstrap
 - **Testing:** Jest, Cypress, PHPUnit, RSpec
